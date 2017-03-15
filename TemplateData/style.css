@@ -325,7 +325,7 @@ button img {
 
 .item {
   display: flex;
-  height: 91.5vh;
+  height: 91.4vh;
 
   margin: 30px 10px 10px 0px;
   background-size: auto 100%;
@@ -338,50 +338,82 @@ button img {
 
 #flex-a {
   background-color: rgb(196, 205, 197);
+ /* background-image: url(prints/all_in_row_sf.jpg);*/
 
 }
 #flex-b {
   background-color: rgb(196, 205, 197);
+ /* background-image: url(prints/wave.jpg);*/
 
 }
 #flex-c {
  background-color: rgb(196, 205, 197);
+ /*background-image: url(prints/twin_peaks.jpg);*/
 
 }
 #flex-d {
-  background-color:  #FAEC6D;  /*#B2B4CE*/
+  background-color:  #FAEC6D;
+  /*background-image: url(prints/shells.jpg);*/
 
 }
 #flex-e {
   background-color: #B2B4CE;
+ /* background-image: url(prints/sfbikehill.jpg);*/
 
 }
 #flex-f {
-  background-color:  #CFECF8; /*#E1E4E4  ;*/
+  background-color:  #CFECF8;
+ /* background-image: url(prints/pinkwave.jpg);*/
 
 }
 #flex-g {
   background-color: #CFECF8;
+ /* background-image: url(prints/painted_ladies.jpg);*/
 
 }
 #flex-h {
-  background-color: #F6E8E6; /*#EA866B;*/
+  background-color: #F6E8E6;
+  /*background-image: url(prints/lighthouse.jpg);*/
 
 }
 #flex-i {
-  background-color:   #CFD6CF; /*#F9F2C0; */  /*#F6E8E6;*/
+  background-color:   #CFD6CF;
+ /* background-image: url(prints/houses.jpg);*/
 
 }
 #flex-j {
-  background-color:   #CFD6CF ; /* #CFD6CF*/
+  background-color:   #CFD6CF;
+ /* background-image: url(prints/goldengate.jpg);*/
 
 }
 #flex-k {
-  background-color: #EA866B ;  /*#F9F2C0*/
+  background-color: #EA866B;
+/*  background-image: url(postcards.png);*/
 
 }
 #flex-l {
   background-color: #90BBD2;
+  /*background-image: url(prints/alcatraz.jpg);*/
+
+}
+#flex-m {
+  background-color: #CFECF8;
+  /*background-image: url(prints/alcatraz.jpg);*/
+
+}
+#flex-n {
+  background-color: #CFECF8;
+  /*background-image: url(prints/alcatraz.jpg);*/
+
+}
+#flex-o {
+  background-color: #E0DDED;
+  /*background-image: url(prints/alcatraz.jpg);*/
+
+}
+#flex-p {
+  background-color: #CFD6CF;
+  /*background-image: url(prints/alcatraz.jpg);*/
 
 }
 
